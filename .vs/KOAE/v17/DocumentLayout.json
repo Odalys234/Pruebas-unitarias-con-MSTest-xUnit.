@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\PruebasUnitarias\\KOAE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{457CD51E-5ACB-4901-8EFB-6BDFF01E422F}|KOAE.Temperatura\\KOAE.Temperatura.csproj|c:\\users\\mineducyt\\desktop\\pruebasunitarias\\koae\\koae.temperatura\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457CD51E-5ACB-4901-8EFB-6BDFF01E422F}|KOAE.Temperatura\\KOAE.Temperatura.csproj|solutionrelative:koae.temperatura\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemperatureConverter.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PruebasUnitarias\\KOAE\\KOAE.Temperatura\\TemperatureConverter.cs",
+              "RelativeDocumentMoniker": "KOAE.Temperatura\\TemperatureConverter.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PruebasUnitarias\\KOAE\\KOAE.Temperatura\\TemperatureConverter.cs",
+              "RelativeToolTip": "KOAE.Temperatura\\TemperatureConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:59:04.736Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -598,6 +598,16 @@
             "related": ".xml"
           }
         }
+      },
+      "KOAE.Temperatura/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/KOAE.Temperatura.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KOAE.Temperatura.dll": {}
+        }
       }
     }
   },
@@ -2292,10 +2302,16 @@
         "system.threading.tasks.4.3.0.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "KOAE.Temperatura/1.0.0": {
+      "type": "project",
+      "path": "../KOAE.Temperatura/KOAE.Temperatura.csproj",
+      "msbuildProject": "../KOAE.Temperatura/KOAE.Temperatura.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "KOAE.Temperatura >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
@@ -2334,7 +2350,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\MINEDUCYT\\Desktop\\PruebasUnitarias\\KOAE\\KOAE.Temperatura\\KOAE.Temperatura.csproj": {
+              "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\PruebasUnitarias\\KOAE\\KOAE.Temperatura\\KOAE.Temperatura.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

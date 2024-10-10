@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\bin\Debug\net6.0\KOAE.Temperatura.deps.json
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\bin\Debug\net6.0\KOAE.Temperatura.dll
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\bin\Debug\net6.0\KOAE.Temperatura.pdb
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\obj\Debug\net6.0\KOAE.Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\obj\Debug\net6.0\KOAE.Temperatura.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\obj\Debug\net6.0\KOAE.Temperatura.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\obj\Debug\net6.0\KOAE.Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\obj\Debug\net6.0\KOAE.Temperatura.sourcelink.json
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\obj\Debug\net6.0\KOAE.Temperatura.dll
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\obj\Debug\net6.0\refint\KOAE.Temperatura.dll
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\obj\Debug\net6.0\KOAE.Temperatura.pdb
+C:\Users\MINEDUCYT\Desktop\PruebasUnitarias\KOAE\KOAE.Temperatura\obj\Debug\net6.0\ref\KOAE.Temperatura.dll

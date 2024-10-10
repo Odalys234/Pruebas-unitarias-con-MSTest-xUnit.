@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOAE.Temperatura", "KOAE.Temperatura\KOAE.Temperatura.csproj", "{457CD51E-5ACB-4901-8EFB-6BDFF01E422F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KOAE.Temperatura", "KOAE.Temperatura\KOAE.Temperatura.csproj", "{457CD51E-5ACB-4901-8EFB-6BDFF01E422F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOAE.Temperatura.UnitTestMSTest", "KOAE.Temperatura.UnitTestMSTest\KOAE.Temperatura.UnitTestMSTest.csproj", "{2119E494-5D12-4206-BA47-D2CF0026968F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{457CD51E-5ACB-4901-8EFB-6BDFF01E422F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{457CD51E-5ACB-4901-8EFB-6BDFF01E422F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{457CD51E-5ACB-4901-8EFB-6BDFF01E422F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2119E494-5D12-4206-BA47-D2CF0026968F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2119E494-5D12-4206-BA47-D2CF0026968F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2119E494-5D12-4206-BA47-D2CF0026968F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2119E494-5D12-4206-BA47-D2CF0026968F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
